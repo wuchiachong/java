@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.cloudberry.com.my._shared.UtilTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.002 s <<< FAILURE! - in com.cloudberry.com.my._shared.UtilTest
+test(com.cloudberry.com.my._shared.UtilTest)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.cloudberry.com.my._shared.UtilTest.test(UtilTest.java:25)
+
